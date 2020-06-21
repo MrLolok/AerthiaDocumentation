@@ -57,6 +57,7 @@ Aerthia è una modalità MMORPG ambientata nello spazio *(temi: Sci-Fi, CyberPun
 Le stazioni sono dei luoghi che ogni giocatore potrà creare in uno dei server **Stations**. Nelle stazioni i giocatori potranno depositare i propri oggetti, piazzare macchinari ed espriremere la propria creatività costruendo ciò che vogliono in un posto tranquillo
 
 **Macchinari**
+
 I macchiari sono degli strumenti piazzabili nelle stazioni ognuno con una propria utilità
 |Nome|Funzionalità|Guadagno|Costo|Crafting
 |--|--|--|--|--|
@@ -75,3 +76,18 @@ Le confederazioni sono delle organizzazioni fondate dai giocatori per crescere i
 |Nome|Regione|Descrizione|Loot|Danno|Vita|
 |--|--|--|--|--|--|
 |||||||
+
+## Struttura del Server
+```mermaid
+graph LR
+A(Bungeecord) --> E(Selector)
+B --> F(Stations-1)
+B --> G(Stations-2)
+C --> H(GameServer-1)
+C --> I(GameServer-2)
+C --> J(Avamposti)
+E --> B(Stations)
+E --> C(Game Servers)
+E --> D(Spawn)
+D --> E
+```

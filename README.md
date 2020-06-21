@@ -78,16 +78,4 @@ Le confederazioni sono delle organizzazioni fondate dai giocatori per crescere i
 |||||||
 
 ## Struttura del Server
-```mermaid
-graph LR
-A(Bungeecord) --> E(Selector)
-B --> F(Stations-1)
-B --> G(Stations-2)
-C --> H(GameServer-1)
-C --> I(GameServer-2)
-C --> J(Avamposti)
-E --> B(Stations)
-E --> C(Game Servers)
-E --> D(Spawn)
-D --> E
-```
+![Struttura del server](https://imgur.com/uHqzv6i.png)

@@ -82,9 +82,9 @@ Le stazioni sono dei luoghi che ogni giocatore potrà creare in uno dei server *
 **Macchinari**
 
 I macchiari sono degli strumenti piazzabili nelle stazioni ognuno con una propria utilità
-|Nome|Funzionalità|Guadagno|Costo|Crafting
-|--|--|--|--|--|
-||||||
+|Nome|Drop|Timing|Costo|Missione|Upgrade|
+|--|--|--|--|--|--|
+|||||||
 
 **Ruoli**
  - Leader

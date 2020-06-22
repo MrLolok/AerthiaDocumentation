@@ -67,14 +67,14 @@ Se durante questo periodo tutti gli attaccanti muoiono o rimangono fuori la posi
 **Lista avamposti**
 |Nome|Regione|Percentuale
 |--|--|--|
-|Alpha Star|Khalypsia|6%|
-|Fresh Land|Khalypsia|8%|
-|Peace Gates|Khalypsia|9%|
-|Fiery Forge|Khalypsia|9%|
-|Burnt Down|Khalypsia|14%|
-|Infernal Pit-Stop|Khalypsia|16%|
-|Lava Mounts|Khalypsia|18%|
-|Bedrock Fortress|Khalypsia|20%|
+|Avamposto Nord|Khalypsia|6%|
+|Avamposto Nord-Ovest|Khalypsia|8%|
+|Avamposto Ovest|Khalypsia|9%|
+|Avamposto Sud-Ovest|Khalypsia|9%|
+|Avamposto Sud|Khalypsia|14%|
+|Avamposto Sud-Est|Khalypsia|16%|
+|Avamposto Est|Khalypsia|18%|
+|Avamposto Nord-Est|Khalypsia|20%|
 
 ## Stazioni
 Le stazioni sono dei luoghi che ogni giocatore potrà creare in uno dei server **Stations**. Nelle stazioni i giocatori potranno depositare i propri oggetti, piazzare macchinari ed espriremere la propria creatività costruendo ciò che vogliono in un posto tranquillo

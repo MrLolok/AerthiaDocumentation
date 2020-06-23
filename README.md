@@ -30,15 +30,16 @@ Aerthia è una modalità MMORPG ambientata nello spazio *(temi: Sci-Fi, CyberPun
 ## Economia
 
 **Lista item**
-|Nome|Crafting|Costo|Missione|Funzionalità|
-|--|--|--|--|--|
-|Carburante||||Boccino contenente liquido proteico in grado di incrementare i tuoi punti esperienza di poco (consumabile).
-|Essenza vitale||||Boccino contenente liquido in grado di incrementare la tua vita temporaneamente (raddoppia, 30 secondi, consumabile).
-|Energy X||||Boccino contenente liquido in grado di incrementare di poco l'attacco temporaneamente (+25%, 30 secondi, consumabile).
-|Energy Z||||Boccino contenente liquido in grado di incrementare di molto l'attacco temporaneamente (raddoppia, 30 secondi, consumabile).
-|Olio poderoso||||Boccino contenente liquido in grado di incrementare la tua velocità di movimento temporaneamente (50%, 30 secondi, consumabile).
-Amuleto di Farward||Non acquistabile||Pendente ottenuto a Farward come segno di gratitudine per aver aiutato i cittadini.
-Amuleto di Upsite||Non acquistabile||Pendente ottenuto ad Upsite come segno di gratitudine per aver aiutato i cittadini.
+|Nome|Crafting|Costo|Missione|Funzionalità|Texture|
+|--|--|--|--|--|--|
+|Lama Gelata|Nessuno|Non acquistabile|Tutorial|Possiede ghirigori col potere di immobilizzare colui che li osserva per troppo tempo||
+|Carburante||||Boccino contenente liquido proteico in grado di incrementare i tuoi punti esperienza di poco (consumabile)||
+|Essenza vitale||||Boccino contenente liquido in grado di incrementare la tua vita temporaneamente (raddoppia, 30 secondi, consumabile)||
+|Energy X||||Boccino contenente liquido in grado di incrementare di poco l'attacco temporaneamente (+25%, 30 secondi, consumabile)||
+|Energy Z||||Boccino contenente liquido in grado di incrementare di molto l'attacco temporaneamente (raddoppia, 30 secondi, consumabile)||
+|Olio poderoso||||Boccino contenente liquido in grado di incrementare la tua velocità di movimento temporaneamente (50%, 30 secondi, consumabile)||
+|Amuleto di Farward|Nessuno|Non acquistabile||Pendente ottenuto a Farward come segno di gratitudine per aver aiutato i cittadini||
+|Amuleto di Upsite|Nessuno|Non acquistabile||Pendente ottenuto ad Upsite come segno di gratitudine per aver aiutato i cittadini||
 
 ## Mappa
 

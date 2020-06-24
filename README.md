@@ -39,7 +39,7 @@ Aerthia è una modalità MMORPG ambientata nello spazio *(temi: Sci-Fi, CyberPun
 |Energy Z||||Boccino contenente liquido in grado di incrementare di molto l'attacco temporaneamente (raddoppia, 30 secondi, consumabile)|![Energy Y](https://i.imgur.com/zpAfeUb.png)|
 |Olio poderoso||||Boccino contenente liquido in grado di incrementare la tua velocità di movimento temporaneamente (50%, 30 secondi, consumabile)||
 |Amuleto di Farward|Nessuno|Non acquistabile||Pendente ottenuto a Farward come segno di gratitudine per aver aiutato i cittadini|![Amuleto di Farward](https://i.imgur.com/ZQlVPwb.png)|
-|Amuleto di Upsite|Nessuno|Non acquistabile||Pendente ottenuto ad Upsite come segno di gratitudine per aver aiutato i cittadini||
+|Amuleto di Upsite|Nessuno|Non acquistabile||Pendente ottenuto ad Upsite come segno di gratitudine per aver aiutato i cittadini|![Amuleto di Upsite](https://i.imgur.com/0BFFtFj.png)|
 
 ## Mappa
 

@@ -111,8 +111,8 @@ Le confederazioni sono delle organizzazioni fondate dai giocatori per crescere i
 |Nome|Ruolo|Avatar|
 |--|--|--|
 |MrLolok|Project Manager & Developer|![MrLolok](https://cravatar.eu/avatar/MrLolok/50)|
-|zFrank03|Content Manager & Lead Builder|![zFrank03](https://cravatar.eu/avatar/zFrank03/50)|
 |Fireentity_293_|Co-Project Manager & Developer|![Fireentity_293_](https://cravatar.eu/avatar/Fireentity_293_/50)|
+|zFrank03|Content Manager & Lead Builder|![zFrank03](https://cravatar.eu/avatar/zFrank03/50)|
 |ANDREACODY|Mythic Creator|![ANDREACODY](https://cravatar.eu/avatar/ANDREACODY/50)|
 |MustardOG|Content Creator & Level Designer|![MustardOG](https://cravatar.eu/avatar/MustardOG/50)|
 |Elkstir_|Social Media Manager|![Elkstir_](https://cravatar.eu/avatar/Elkstir_/50)|

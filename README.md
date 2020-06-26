@@ -24,7 +24,8 @@ Aerthia è una modalità MMORPG ambientata nello spazio *(temi: Sci-Fi, CyberPun
 **Lista missioni**
 |Nome|Tipo|Descrizione|Ricompensa
 |--|--|--|--|
-|Aasdasd|aa|||
+|Prologo|Principale|Durante la spedizione verso il pianeta Alfa qualcosa va storto...|//|
+|Tutorial|Principale|Un vecchio ritrova il corpo del giovane astronauta e si prende cura di lui. Una volta ripresi i sensi gli insegna tecniche utili per sopravvivere su Aerthia. Una volta finito il tutto il vecchio consegna un libro che il ragazzo dovrà consegnare ad un uomo abitante della città Covered|Lama Gelata|
 
 
 ## Economia
@@ -38,8 +39,8 @@ Aerthia è una modalità MMORPG ambientata nello spazio *(temi: Sci-Fi, CyberPun
 |Energy X||||Boccino contenente liquido in grado di incrementare di poco l'attacco temporaneamente (+25%, 30 secondi, consumabile)|![Energy X](https://i.imgur.com/ZKn2jOq.png)|
 |Energy Z||||Boccino contenente liquido in grado di incrementare di molto l'attacco temporaneamente (raddoppia, 30 secondi, consumabile)|![Energy Y](https://i.imgur.com/zpAfeUb.png)|
 |Olio poderoso||||Boccino contenente liquido in grado di incrementare la tua velocità di movimento temporaneamente (50%, 30 secondi, consumabile)||
-|Amuleto di Farward|Nessuno|Non acquistabile||Pendente ottenuto a Farward come segno di gratitudine per aver aiutato i cittadini|![Amuleto di Farward](https://i.imgur.com/ZQlVPwb.png)|
-|Amuleto di Upsite|Nessuno|Non acquistabile||Pendente ottenuto ad Upsite come segno di gratitudine per aver aiutato i cittadini|![Amuleto di Upsite](https://i.imgur.com/0BFFtFj.png)|
+|Amuleto di Farward|Nessuno|Non acquistabile||Pendente ottenibile a Farward|![Amuleto di Farward](https://i.imgur.com/ZQlVPwb.png)|
+|Amuleto di Covered|Nessuno|Non acquistabile||Pendente ottenibile a Covered|![Amuleto di Covered](https://i.imgur.com/0BFFtFj.png)|
 
 ## Mappa
 

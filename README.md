@@ -131,22 +131,22 @@ Le confederazioni sono delle organizzazioni fondate dai giocatori per crescere i
 |thawalif|@Thawalife|Texture Maker|![thawalif](https://cravatar.eu/avatar/thawalif/50)|
 |_Loreh|@loreh_02|Texture Maker|![_Loreh](https://cravatar.eu/avatar/_Loreh/50)|
 
-##Enchantment
+## Enchantment
 
-**Rarità comuni**
+**For Swords**
 
-|Nome|Descrizione|Costo|
-|--|--|--|
-|Poison|avvelena||
-|Wither|wither||
-|Ninja|Invisibilità durante il combattimento||
-|Rampage|Da forza quando hai pochi cuori||
+|Nome|Descrizione|Costo|Rarità|
+|--|--|--|--|
+|Poison|Poison||Comune|
+|Wither|Wither||Comune|
+|Sile|Slowness||Raro|
+|Confusion|Nausea||Raro|
+|Shock|Weakness||Mistico|
+|Blind|Blindness||Mistico|
+|Vampire|Mentre si attacca ruba parte dei cuori||Unico|
+|Explosive|Distrugge l'armatura più in fretta||Unico|
 
-**Rarità rari**
-
-**Rarità mistici**
-
-**Rarità leggendario**
+**For Armors**
 
 ## Struttura del Server
 ![Struttura del server](https://imgur.com/uHqzv6i.png)

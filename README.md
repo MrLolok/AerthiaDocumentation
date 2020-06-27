@@ -115,21 +115,21 @@ Le confederazioni sono delle organizzazioni fondate dai giocatori per crescere i
 |||||||
 
 ## Staff
-|Nome|Ruolo|Avatar|Telegram|
+|Nome|Telegram|Ruolo|Avatar|
 |--|--|--|--|
-|MrLolok|Project Manager & Developer|![MrLolok](https://cravatar.eu/avatar/MrLolok/50)|@EmisKilla|
-|Fireentity_293_|Co-Project Manager & Developer|![Fireentity_293_](https://cravatar.eu/avatar/Fireentity_293_/50)|@LorenzoAkaLollo|
-|zFrank03|Content Manager & Lead Builder|![zFrank03](https://cravatar.eu/avatar/zFrank03/50)|@zFrank03|
-|ANDREACODY|Mythic Creator|![ANDREACODY](https://cravatar.eu/avatar/ANDREACODY/50)|@AndreaElLoco|
-|Pineapplee|Mythic Creator|![Pineapplee](https://cravatar.eu/avatar/Pineapplee/50)|@PineeeAppleee|
-|MustardOG|Content Creator & Level Designer|![MustardOG](https://cravatar.eu/avatar/MustardOG/50)|@broskello|
-|Blazzer2003|Content Creator|![Blazzer2003](https://cravatar.eu/avatar/Blazzer2003/50)|@Blazzer2003|
-|Elkstir_|Social Media Manager|![Elkstir_](https://cravatar.eu/avatar/Elkstir_/50)|@FabriFibra|
-|ZzGabryzZ|Builder|![ZzGabryzZ](https://cravatar.eu/avatar/ZzGabryzZ/50)|@DaviCero|
-|awktitti|Builder|![awktitty](https://cravatar.eu/avatar/awktitti/50)|@awktitty|
-|_CheckMate_Levin|Builder|![_CheckMate_Levin](https://cravatar.eu/avatar/_CheckMate_Levin/50)|@LevinCM|
-|thawalif|Texture Maker|![thawalif](https://cravatar.eu/avatar/thawalif/50)|@Thawalife|
-|_Loreh|Texture Maker|![_Loreh](https://cravatar.eu/avatar/_Loreh/50)|@loreh_02|
+|MrLolok|@EmisKilla|Project Manager & Developer|![MrLolok](https://cravatar.eu/avatar/MrLolok/50)|
+|Fireentity_293_|@LorenzoAkaLollo|Co-Project Manager & Developer|![Fireentity_293_](https://cravatar.eu/avatar/Fireentity_293_/50)|
+|zFrank03|@zFrank03|Content Manager & Lead Builder|![zFrank03](https://cravatar.eu/avatar/zFrank03/50)|
+|ANDREACODY|@AndreaElLoco|Mythic Creator|![ANDREACODY](https://cravatar.eu/avatar/ANDREACODY/50)|
+|Pineapplee|@PineeeAppleee|Mythic Creator|![Pineapplee](https://cravatar.eu/avatar/Pineapplee/50)|
+|MustardOG|@broskello|Content Creator & Level Designer|![MustardOG](https://cravatar.eu/avatar/MustardOG/50)|
+|Blazzer2003|@Blazzer2003|Content Creator|![Blazzer2003](https://cravatar.eu/avatar/Blazzer2003/50)|
+|Elkstir_|@FabriFibra|Social Media Manager|![Elkstir_](https://cravatar.eu/avatar/Elkstir_/50)|
+|ZzGabryzZ|@DaviCero|Builder|![ZzGabryzZ](https://cravatar.eu/avatar/ZzGabryzZ/50)|
+|awktitti|@awktitty|Builder|![awktitty](https://cravatar.eu/avatar/awktitti/50)|
+|_CheckMate_Levin|@LevinCM|Builder|![_CheckMate_Levin](https://cravatar.eu/avatar/_CheckMate_Levin/50)|
+|thawalif|@Thawalife|Texture Maker|![thawalif](https://cravatar.eu/avatar/thawalif/50)|
+|_Loreh|@loreh_02|Texture Maker|![_Loreh](https://cravatar.eu/avatar/_Loreh/50)|
 
 ## Struttura del Server
 ![Struttura del server](https://imgur.com/uHqzv6i.png)

@@ -135,18 +135,29 @@ Le confederazioni sono delle organizzazioni fondate dai giocatori per crescere i
 
 **For Swords**
 
-|Nome|Descrizione|Costo|Rarità|
+|Nome|Descrizione|Rarità|
 |--|--|--|--|
-|Poison|Poison||Comune|
-|Wither|Wither||Comune|
-|Sile|Slowness||Raro|
-|Confusion|Nausea||Raro|
-|Shock|Weakness||Mistico|
-|Blind|Blindness||Mistico|
-|Vampire|Mentre si attacca ruba parte dei cuori||Unico|
-|Explosive|Distrugge l'armatura più in fretta||Unico|
+|Poison|Poison|Comune|
+|Wither|Wither|Comune|
+|Sile|Slowness|Raro|
+|Confusion|Nausea|Raro|
+|Shock|Weakness|Mistico|
+|Blind|Blindness|Mistico|
+|Vampire|Mentre si attacca ruba parte dei cuori|Unico|
+|Explosive|Distrugge l'armatura più in fretta|Unico|
 
 **For Armors**
+
+|Nome|Descrizione|Rarità|
+|--|--|--|--|
+|Poison|Poison|Comune|
+|Wither|Wither|Comune|
+|Sile|Slowness|Raro|
+|Confusion|Nausea|Raro|
+|Shock|Weakness|Mistico|
+|Blind|Blindness|Mistico|
+|Vampire|Mentre si attacca ruba parte dei cuori|Unico|
+|Explosive|Distrugge l'armatura più in fretta|Unico|
 
 ## Struttura del Server
 ![Struttura del server](https://imgur.com/uHqzv6i.png)

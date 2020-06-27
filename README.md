@@ -136,7 +136,7 @@ Le confederazioni sono delle organizzazioni fondate dai giocatori per crescere i
 **For Swords**
 
 |Nome|Descrizione|Rarità|
-|--|--|--|--|
+|--|--|--|
 |Poison|Poison|Comune|
 |Wither|Wither|Comune|
 |Sile|Slowness|Raro|
@@ -149,7 +149,7 @@ Le confederazioni sono delle organizzazioni fondate dai giocatori per crescere i
 **For Armors**
 
 |Nome|Descrizione|Rarità|
-|--|--|--|--|
+|--|--|--|
 |Poison|Poison|Comune|
 |Wither|Wither|Comune|
 |Sile|Slowness|Raro|

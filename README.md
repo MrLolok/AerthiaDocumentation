@@ -41,6 +41,12 @@ Aerthia è una modalità MMORPG ambientata nello spazio *(temi: Sci-Fi, CyberPun
 |Olio poderoso||||Boccino contenente liquido in grado di incrementare la tua velocità di movimento temporaneamente (50%, 30 secondi, consumabile)||
 |Amuleto di Farward|Nessuno|Non acquistabile||Pendente ottenibile a Farward|![Amuleto di Farward](https://i.imgur.com/ZQlVPwb.png)|
 |Amuleto di Covered|Nessuno|Non acquistabile||Pendente ottenibile a Covered|![Amuleto di Covered](https://i.imgur.com/0BFFtFj.png)|
+|Stivali palmati||||Stivali forgiati con un materiali flessibile e molto leggero che se indossati permettono di camminare sull'acqua a bassa velocità.
+|Mano bionica||||Protesi meccanica che se indossata consente di sparare raggi laser a media distanza.
+|Manufatto Spear||||Potente manufatto nascosto nel monte Spear, consente di generare una barriera che protegge da ogni attacco nemico per 3 secondi. (Tempo di ricarica: 60 secondi).
+|Bracciale della dinamicità||||Bracciale in titanio che se indossato potenzia di molto l'attacco se ci si trova in prossimità di un avamposto.
+|Stiletto avvelenato ||||Pugnale dalla lama argentata intrisa di veleno (quando il nemico viene colpito subisce l'effetto di veleno per 5 secondi, tuttavia ha un attacco molto debole)
+|Pugnale sanguisuga||||Pugnale in acciaio che permette di risucchiare la vita nemica e guadagnarne una percentuale
 
 ## Mappa
 

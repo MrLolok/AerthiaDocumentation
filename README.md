@@ -128,8 +128,8 @@ Le confederazioni sono delle organizzazioni fondate dai giocatori per crescere i
 |ZzGabryzZ|Builder|![ZzGabryzZ](https://cravatar.eu/avatar/ZzGabryzZ/50)|@DaviCero|
 |awktitti|Builder|![awktitty](https://cravatar.eu/avatar/awktitti/50)|@awktitty|
 |_CheckMate_Levin|Builder|![_CheckMate_Levin](https://cravatar.eu/avatar/_CheckMate_Levin/50)|@LevinCM|
-|thawalif|Texture Maker|![thawalif](https://cravatar.eu/avatar/thawalif/50)|@loreh_02|
-|_Loreh|Texture Maker|![_Loreh](https://cravatar.eu/avatar/_Loreh/50)|@Thawalife|
+|thawalif|Texture Maker|![thawalif](https://cravatar.eu/avatar/thawalif/50)|@Thawalife|
+|_Loreh|Texture Maker|![_Loreh](https://cravatar.eu/avatar/_Loreh/50)|@loreh_02|
 
 ## Struttura del Server
 ![Struttura del server](https://imgur.com/uHqzv6i.png)

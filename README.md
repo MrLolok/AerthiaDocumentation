@@ -131,5 +131,22 @@ Le confederazioni sono delle organizzazioni fondate dai giocatori per crescere i
 |thawalif|@Thawalife|Texture Maker|![thawalif](https://cravatar.eu/avatar/thawalif/50)|
 |_Loreh|@loreh_02|Texture Maker|![_Loreh](https://cravatar.eu/avatar/_Loreh/50)|
 
+##Enchantment
+
+**Rarità comuni**
+
+|Nome|Descrizione|Costo|
+|--|--|--|
+|Poison|avvelena||
+|Wither|wither||
+|Ninja|Invisibilità durante il combattimento||
+|Rampage|Da forza quando hai pochi cuori||
+
+**Rarità rari**
+
+**Rarità mistici**
+
+**Rarità leggendario**
+
 ## Struttura del Server
 ![Struttura del server](https://imgur.com/uHqzv6i.png)

@@ -120,9 +120,10 @@ Le confederazioni sono delle organizzazioni fondate dai giocatori per crescere i
 |MrLolok|@EmisKilla|Project Manager & Developer|![MrLolok](https://cravatar.eu/avatar/MrLolok/50)|
 |Fireentity_293_|@LorenzoAkaLollo|Co-Project Manager & Developer|![Fireentity_293_](https://cravatar.eu/avatar/Fireentity_293_/50)|
 |zFrank03|@zFrank03|Content Manager & Lead Builder|![zFrank03](https://cravatar.eu/avatar/zFrank03/50)|
+|J_Hunter_|@Dani_210|Developer|![J_Hunter_](https://cravatar.eu/avatar/J_Hunter_/50)|
 |ANDREACODY|@AndreaElLoco|Mythic Creator|![ANDREACODY](https://cravatar.eu/avatar/ANDREACODY/50)|
 |Pineapplee|@PineeeAppleee|Mythic Creator|![Pineapplee](https://cravatar.eu/avatar/Pineapplee/50)|
-|MustardOG|@broskello|Content Creator & Level Designer|![MustardOG](https://cravatar.eu/avatar/MustardOG/50)|
+|Viixel|@Viixel|Content Creator & Level Designer|![Viixel](https://cravatar.eu/avatar/Viixel/50)|
 |Blazzer2003|@Blazzer2003|Content Creator|![Blazzer2003](https://cravatar.eu/avatar/Blazzer2003/50)|
 |Elkstir_|@FabriFibra|Social Media Manager|![Elkstir_](https://cravatar.eu/avatar/Elkstir_/50)|
 |ZzGabryzZ|@DaviCero|Builder|![ZzGabryzZ](https://cravatar.eu/avatar/ZzGabryzZ/50)|

@@ -33,6 +33,7 @@ Aerthia è una modalità MMORPG ambientata nello spazio *(temi: Sci-Fi, CyberPun
 **Lista item**
 |Nome|Crafting|Costo|Missione|Funzionalità|Texture|
 |--|--|--|--|--|--|
+|Casco ossigeno|...|...|...|...|![Casco ossigeno](https://i.imgur.com/zcvSAfA.png)|
 |Lama Gelata|Nessuno|Non acquistabile|Tutorial|Possiede ghirigori col potere di immobilizzare colui che li osserva per troppo tempo||
 |Carburante||||Boccino contenente liquido proteico in grado di incrementare i tuoi punti esperienza di poco (consumabile)||
 |Essenza vitale||||Boccino contenente liquido in grado di incrementare la tua vita temporaneamente (raddoppia, 30 secondi, consumabile)||
